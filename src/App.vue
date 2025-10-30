@@ -5,7 +5,7 @@
 
     <!-- 타이틀 -->
     <h1 class="relative text-5xl md:text-7xl font-extrabold text-gray-800 mb-4 z-10 text-center">
-      한가위 즐거움 🌕
+      풍성한 한가위 🌕
     </h1>
 
     <!-- 안내 메시지 -->
